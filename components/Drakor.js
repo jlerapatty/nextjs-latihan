@@ -5,7 +5,7 @@ export default function Popular() {
   return (
     <Box sx={{ background: "#222", color: "common.white" }}>
       <Typography py={3} mx={4} variant="h6">
-        Popular Anime
+        Popular Drakor
       </Typography>
       <Box
         sx={{

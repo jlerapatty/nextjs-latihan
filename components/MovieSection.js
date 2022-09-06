@@ -34,7 +34,7 @@ export default function MovieSection() {
             <Grid container sx={{ display: "flex", flexDirection: "column", mx: 3 }}>
               <Grid item xs="auto" sx={{ display: "flex", flexDirection: "column" }}>
                 <Typography variant="h3" component="h1" color="common.white" fontWeight="600" textAlign="center">
-                  Nonton film dan anime tanpa batas
+                  Nonton film dan drakor tanpa batas
                 </Typography>
                 <Typography variant="h6" component="h4" color="common.white" textAlign="center" sx={{ my: 2 }}>
                   Dimana saja dan kapan saja
